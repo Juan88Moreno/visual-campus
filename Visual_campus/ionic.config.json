@@ -1,0 +1,7 @@
+{
+  "name": "Visual_campus",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
